@@ -21,7 +21,7 @@ canvas {
     background-color: #feff9d;
 }
 
-.btns {
+.botones {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
